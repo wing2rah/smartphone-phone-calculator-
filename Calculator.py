@@ -1,5 +1,3 @@
-# smartphone-phone-calculator-
-Let's create a calculator in Android device by python programming language 
 from tkinter import *
 from tkinter import messagebox
 from tkinter import simpledialog
